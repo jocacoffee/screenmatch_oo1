@@ -19,7 +19,7 @@ public class Principal {
         Pessoa pessoa1 = new Pessoa();
         pessoa1.nome = "João Carlos Coelho";
         pessoa1.idade = 33;
-        pessoa1.CPF = 0001110102;
+        pessoa1.CPF = 001110102;
 
         pessoa1.dizOi();
         pessoa1.fazAniversario();
